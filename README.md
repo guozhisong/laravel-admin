@@ -74,3 +74,5 @@ Other
 License
 ------------
 `laravel-admin` is licensed under [The MIT License (MIT)](LICENSE).
+
+http://laravelacademy.org/post/6468.html
